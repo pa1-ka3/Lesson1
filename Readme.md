@@ -1,1 +1,1 @@
-Lesson for html + pytython
+Lesson for html + python
