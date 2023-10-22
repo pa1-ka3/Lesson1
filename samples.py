@@ -13,4 +13,3 @@ def get_greeting(my_name, my_age):
     str2 = str2.replace('{number}', my_age)
     return str2
 
-
